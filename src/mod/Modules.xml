@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+  <Module  name = "passwordSaver"
+    movie       = "passwordSaver\passwordSaver.swf"
+    flags       = "GMF_PRELOAD"
+    depth_layer = "Top"
+    sub_depth   = "2"
+    variable    = "login_characterselection_gui"
+    criteria    = "login_characterselection_gui &amp;&amp; (guimode &amp; GUIMODEFLAGS_LAUNCHER)"
+  />
+</Root>
