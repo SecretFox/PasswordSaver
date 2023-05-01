@@ -7,6 +7,6 @@ Supports multiple characters.
 Username(s)/password(s) need to be added to accountData.xml file in the mods directory.
 
 ## Install and Usage
-Download mod from the releases page and extract to `Secret World Legends\Data\Gui\Custom\`  
+Download mod from the releases page and extract to `Secret World Legends\Data\Gui\Custom\Flash\`  
 Path for the .swf file should then be `Secret World Legends\Data\Gui\Custom\Flash\passwordSaver\passwordSaver.swf`  
 Add your account name(s) and password(s) to accountData.xml file in the passwordSaver folder
